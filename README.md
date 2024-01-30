@@ -7,27 +7,22 @@
 ## Tecnologías utilizadas
 
 <div align="center" style="display: flex">
-
       <span>
-         <a href="https://es.javascript.info/" target="_blank">
-               <img width="100" style="margin: 10" title='JavaScript' src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png'>
+         <a href="https://vitejs.dev/" target="_blank">
+               <img width="100" style="margin: 10" title='Vite' src='https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg'>
          </a>
       </span>
-
       <span>
          <a href="https://www.w3schools.com/html/default.asp" title='html' target="_blank">
                <img width="100" style="margin: 10" title='HTML' src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png'>
          </a>
       </span>
-
       <span>
          <a href="https://www.w3schools.com/css/default.asp" title='CSS' target="_blank">
                <img width="72" style="margin: 10" title='CSS' src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png'>
          </a>
       </span>
-
       <br/>
-
       <span>
          <a href="https://www.typescriptlang.org/" target="_blank" title='TypeScript'>
                <img width="100" style="margin: 10" title='TypeScript' src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/800px-Typescript.svg.png?20230616215448'>
