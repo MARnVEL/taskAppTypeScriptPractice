@@ -33,7 +33,7 @@
 ### Para ejecutar o utilizar el proyecto debes clonar este repositorio en un directorio de tu sistema. Abre una terminal y ejecuta el siguiente comando
 
 ```bash
-git clone 
+git clone https://github.com/MARnVEL/taskAppTypeScriptPractice.git
 ```
 
 ### Con una terminal localizarse en el directorio del proyecto y ejecutar
